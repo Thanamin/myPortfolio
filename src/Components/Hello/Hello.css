@@ -1,12 +1,24 @@
 #Hello {
-
+    
 }
 
 .Hello-box {
-    height: 350px;
+    display: flex;
+    height: 400px;
     width: auto;
+    justify-content: space-around;
+    align-items: center;
 }
+
+.Hello-box img {
+    display: flex;
+    height: 100%;
+   
+}
+
 .Hello-text a {
-    font-size: 20px;
+    font-size: 50px;
+    display: flex;
+    
 
 }

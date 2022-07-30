@@ -4,7 +4,7 @@ export const Hello = () => {
   return (
     <div id="Hello">
       <div className="Hello-box">
-        <img src="#"></img>
+        <img src="../../../Picture/profile.jpg" />
         <div className="Hello-text">
           <a>Hello...</a>
           <a>My Name is Thanamin Akkharananwinit</a>
