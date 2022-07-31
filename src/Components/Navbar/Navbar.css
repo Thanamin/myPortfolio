@@ -1,5 +1,5 @@
-.Navbar {
-
+#Navbar {
+    background-color: azure;
 }
 
 .Navbar-Link {
@@ -12,6 +12,8 @@
 }
 
 .Navbar-Link a {
+    color:brown;
+    font-size: 20px;
     display:flex;
     justify-content: center;
     margin: 10px 15px 10px 15px;

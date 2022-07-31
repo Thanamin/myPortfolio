@@ -1,0 +1,23 @@
+#Skill {
+    height: 800px;
+
+    
+}
+
+
+.icon-banner {
+   
+   
+}
+
+.icon-banner-icon {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.icon-banner .icon-banner-icon img {
+  width: 120px;
+  height: 120px;
+  
+}
