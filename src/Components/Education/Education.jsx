@@ -3,19 +3,15 @@ import "./Education.css";
 export const Education = () => {
   return (
     <div id="Education">
-
       <div>
         <a>Education</a>
       </div>
 
-
-        {/* Part 1 */}
-      <div>
+      {/* Part 1 */}
+      <div className="Education-part1">
         <a>Generation Thailand</a>
         <a>Junior Software Developer Bootcamp</a>
         <a>Jun.2022 - Sep.2022</a>
-      </div>
-      <div>
         <a>
           TECHNICAL: HTML, CSS, Bootstrap, JavaScript, Reactjs, Nodejs, Express,
           MongoDB BSM: Problem solving, Time management, Communication, Agile
@@ -30,15 +26,14 @@ export const Education = () => {
           <br />- iTracker (MERN stacks)
         </a>
 
-
         {/* Part 2 */}
-        <div>
-            <a>Srinakharinwirot University</a>
-            <a>Bachelor's degree in Chemical Engineering</a>
-            <a>2012-2017</a>
+        <div className="Education-part2">
+          <a>Srinakharinwirot University</a>
+          <a>Bachelor's degree in Chemical Engineering</a>
+          <a>2012-2017</a>
         </div>
         <div>
-            <a>อธิบายว่าทำอะไรในมหาลัย</a>
+          <a>อธิบายว่าทำอะไรในมหาลัย</a>
         </div>
       </div>
     </div>

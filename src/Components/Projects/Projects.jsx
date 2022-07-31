@@ -20,9 +20,9 @@ export const Project = () => {
                 <a>Fit2Be</a>
                 <img src="" />
             </div>
-            <div>
+            {/* <div>
                 <button className="Project-Button-SeeMore" onClick="">See more on git hub</button>
-            </div>
+            </div> */}
         </div>
     );
 };

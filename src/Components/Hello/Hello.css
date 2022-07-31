@@ -25,7 +25,8 @@
 
 .Hello-text-Link {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
+  column-gap: 3rem;
 }
 
 .Link-Github img {
