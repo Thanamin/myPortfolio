@@ -3,8 +3,8 @@ import "./Skill.css";
 export const Skill = () => {
   return (
     <div id="Skill">
-      <a>Skill</a>
       <div className="icon-banner">
+        <a>Skill</a>
         <div className="icon-banner-icon">
           <div className="Javascript-icon">
             <img src="../../../public/Skill-icon/icons8-javascript-500.png" />
