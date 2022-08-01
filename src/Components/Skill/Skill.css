@@ -13,9 +13,10 @@
   text-align: center;
 }
 
-#Skill a {
+.icon-banner-text {
   font-weight: bold;
-  font-size: 30px;
+  font-size: 55px;
+  margin-bottom: 50px;
   /* margin-left: 1em; */
   /* align-self: center; */
   ;

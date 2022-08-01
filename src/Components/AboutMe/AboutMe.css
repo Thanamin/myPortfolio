@@ -1,28 +1,36 @@
 #AboutMe {
     display: flex;
     height: 800px;
-    
+    flex-direction: column;
     
 }
 
 .AboutMe-box {
     
     display: flex;
-    height: auto ;
+    height: 70% ;
     width: auto;
-    justify-content: center;
-    align-items: center;
+    margin: 100px 100px;
+
     
 }
 
 .AboutMe-text {
-    width: 90%;
-    
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
-.AboutMe-text h2 {
-    font-size: 35px;
-    color: red;
+.AboutMe-text-head {
+    font-size: 55px;
+    font-weight: bold;
+    text-align: start;
+    margin: 0px 100px 50px 100px;
+    width: 70%;
+
+    
+    
 }
 
 .AboutMe-text h4 {

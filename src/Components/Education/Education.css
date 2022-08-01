@@ -2,16 +2,83 @@
     display: flex;
     height: 800px;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#Education h1 {
+    font-size: 30px;
+}
+
+#Education h2 {
+    font-size: 25px;
+}
+
+#Education h3 {
+    font-size: 20px;
+}
+
+.Education-head {
+    font-size: 55px;
+    font-weight: bold;
+    text-align: start;
+    width: 70%;
 }
 
 .Education-part1 {
     display: flex;
+}
+
+.Education-part1-left {
+    display: flex;
     flex-direction: column;
+    width: 55%;
+    height: auto;
+    margin-bottom: 100px;
+    margin-top: 50px;
+    margin-left: 100px;
     
 }
 
+.Education-part1-right {
+    width: auto;
+    height: auto;
+    display: flex;
+    margin-right: 100px;
+    margin-left: 150px;
+    margin-top: 55px;
+   
+}
+
+
 .Education-part2 {
     display: flex;
-    flex-direction: column;
+
     
+}
+
+.Education-part2-left {
+    display: flex;
+    flex-direction: column;
+    width: 55%;
+    height: auto;
+    margin-bottom: 100px;
+    margin-top: 50px;
+    margin-left: 100px;
+    
+}
+
+.Education-part2-right {
+    width: auto;
+    height: auto;
+    display: flex;
+    margin-right: 100px;
+    margin-left: 150px;
+    margin-top: 55px;
+   
+}
+
+
+.Education-detail {
+    margin-top: 20px;
 }

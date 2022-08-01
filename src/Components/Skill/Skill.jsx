@@ -4,7 +4,9 @@ export const Skill = () => {
   return (
     <div id="Skill">
       <div className="icon-banner">
+        <div className="icon-banner-text">
         <a>Skill</a>
+        </div>
         <div className="icon-banner-icon">
           <div className="Javascript-icon">
             <img src="../../../public/Skill-icon/icons8-javascript-500.png" />

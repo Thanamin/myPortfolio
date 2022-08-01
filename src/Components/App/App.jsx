@@ -1,6 +1,7 @@
 import { useState } from "react";
 import reactLogo from "../../assets/react.svg";
 import { AboutMe } from "../AboutMe/AboutMe";
+import { Bubble } from "../Bubble/Bubble";
 import { Contact } from "../Contact/Contact";
 import { Education } from "../Education/Education";
 import { Experience } from "../Experience/Experience";
