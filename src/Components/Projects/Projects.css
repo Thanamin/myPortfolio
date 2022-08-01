@@ -1,4 +1,51 @@
 #Project {
     width: auto;
     height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Project-head {
+    font-size: 55px;
+    font-weight: bold;
+    /* flex-direction: column; */
+    
+}
+
+.Project-box {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.Project-col1 {
+    display: flex;
+    flex-direction: column;
+}
+
+.Project-col1 img {
+    width: 500px;
+    height: auto;
+}
+
+.Project-col2 {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.Project-col2 img {
+    width: 500px;
+    height: auto;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 15px 15px;
+    font-size: 25px;
+    font-weight: bold;
+
 }
