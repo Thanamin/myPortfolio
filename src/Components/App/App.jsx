@@ -24,6 +24,7 @@ function App() {
       <Skill />
       <Project />
       <Contact />
+      
 
       {/* <div>
         <a href="https://vitejs.dev" target="_blank">

@@ -1,3 +1,4 @@
+// import { MyName } from "../MyName/MyName";
 import "./Hello.css";
 
 export const Hello = () => {
@@ -6,6 +7,7 @@ export const Hello = () => {
       <div className="Hello-box">
         <img src="../../../Picture/profile-test.png" />
         <div className="Hello-text">
+          {/* <MyName /> */}
           <a><span>Hello...</span></a><br/><br/><br/>
           <a>My Name is Thanamin Akkharananwinit</a>
           <a>I want to be a Software Developer</a><br/>
