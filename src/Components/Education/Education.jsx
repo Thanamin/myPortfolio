@@ -14,7 +14,7 @@ export const Education = () => {
           <h2>Junior Software Developer Bootcamp</h2>
           <div className="Education-detail">
             <h3>
-              TECHNICAL: HTML, CSS, Bootstrap, JavaScript, Reactjs, Nodejs,
+              Learn HTML, CSS, Bootstrap, JavaScript, Reactjs, Nodejs,
               Express, MongoDB BSM: Problem solving, Time management,
               Communication, Agile Scrum, Project management <br />
               Projects:
@@ -40,11 +40,13 @@ export const Education = () => {
           <h2>Bachelor's degree in Chemical Engineering</h2>
           <div className="Education-detail">
             <h3>
-              อธิบายว่าทำอะไรในมหาลัย TECHNICAL: HTML, CSS, Bootstrap,
-              JavaScript, Reactjs, Nodejs, Express, MongoDB BSM: Problem
-              solving, Time management, Communication, Agile Scrum, Project
-              management Projects: - Colemar (HTML, CSS) - Find Your Hat
-              (JaveScript) - JAMMMING (Reactjs) - iTracker (MERN stacks)
+              Chemical engineers conceive and design processes involved in
+              chemical manufacturing. The main role of chemical engineers is to
+              design and troubleshoot processes for the production of chemicals,
+              fuels, foods, pharmaceuticals, and biologicals, to name just a
+              few. They are most often employed by large-scale manufacturing
+              plants to maximize productivity and product quality while
+              minimizing costs.
             </h3>
           </div>
         </div>

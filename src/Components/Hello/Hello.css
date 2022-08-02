@@ -1,7 +1,9 @@
 #Hello {
+  
 }
 
 .Hello-box {
+  font-family: 'Space Mono', monospace;
   display: flex;
   height: 800px;
   width: auto;
@@ -14,14 +16,46 @@
   height: 40%;
 }
 
+.Hello-text {
+  width: 60%;
+}
+
 .Hello-text a {
-  font-size: 50px;
   display: flex;
+  
 }
 
 .Hello-text a span{
     font-weight: bold;
   }
+
+.Hello-text-1 {
+  font-size: 45px;
+  margin-bottom: 0.5em;
+  justify-content: center;
+}
+
+.Hello-text-2 {
+  /* margin-left: 2em; */
+  font-size: 35px;
+  margin-bottom: 0.5em;
+}
+
+.Hello-text-3 {
+  /* margin-left: 4em; */
+  font-size: 35px;
+  justify-content: center;
+  
+}
+
+.Hello-text-4 {
+  /* margin-left: 10em; */
+  font-size: 20px;
+  color: red;
+  justify-content: center;
+}
+
+
 
 .Hello-text-Link {
   display: flex;

@@ -11,12 +11,16 @@ export const Project = () => {
                 <div className="Project-box">
                     <div className="Project-col1">
                         <div className="box">
-                            <a>Colmar</a>
-                            <img src="../../public/Project/Jammming.jpg" />
+                            <a  href="https://thanamin.github.io/colmar/"
+                                target="_blank"
+                                rel="noreferrer">Colmar</a> 
+                            <img src="../../public/Project/Colmar.jpg" />
                         </div>
                         <div className="box">
-                            <a>Find My Hat</a>
-                            <img src="../../public/Project/Jammming.jpg" />
+                            <a href="https://replit.com/@ThanaminAkkhara/Find-Your-Hat-20Thanamin-Minmin#index.js"
+                                target="_blank"
+                                rel="noreferrer">Find Your Hat</a>
+                            <img src="../../public/Project/FindYourHat.jpg" />
                         </div>
                     </div>
 
@@ -32,8 +36,8 @@ export const Project = () => {
                             <img src="../../public/Project/Jammming.jpg" />
                         </div>
                         <div className="box">
-                            <a>Fit2Be</a>
-                            <img src="../../public/Project/Jammming.jpg" />
+                            <a>2beFit</a>
+                            <img src="../../public/Project/2befit.jpg" />
                         </div>
                     </div>
                 </div>

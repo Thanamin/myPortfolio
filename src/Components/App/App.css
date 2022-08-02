@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Alice&family=Space+Mono&display=swap');
 #root {
   max-width: 1280px;
   margin: auto;
   background-color: beige;
+  font-family: 'Alice', serif;
+  
   /* padding: 2rem; */
   /* text-align: center; */
 }

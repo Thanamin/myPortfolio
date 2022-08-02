@@ -1,0 +1,48 @@
+#Experience {
+    display: flex;
+    height: 800px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+#Experience h1 {
+    font-size: 30px;
+    margin-bottom: 3px;
+}
+
+#Experience h2 {
+    font-size: 23px;
+}
+
+
+#Experience h3 {
+    font-size: 20px;
+}
+
+#Experience h4 {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.Experience-head {
+    font-size: 55px;
+    font-weight: bold;
+    text-align: center;
+    width: 70%;
+    margin-bottom: 1em;
+}
+
+.Experience-part1 {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    margin-bottom: 6em;
+    
+}
+
+.Experience-part2 {
+    display: flex; 
+    flex-direction: column; 
+    width: 60%;
+}

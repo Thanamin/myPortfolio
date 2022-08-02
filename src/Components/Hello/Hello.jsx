@@ -8,9 +8,10 @@ export const Hello = () => {
         <img src="../../../Picture/profile-test.png" />
         <div className="Hello-text">
           {/* <MyName /> */}
-          <a><span>Hello...</span></a><br/><br/><br/>
-          <a>My Name is Thanamin Akkharananwinit</a>
-          <a>I want to be a Software Developer</a><br/>
+          <a className="Hello-text-1"><span>Hello !! My Name is</span></a>
+          {/* <a className="Hello-text-2">My Name is</a> */}
+          <a className="Hello-text-3">Thanamin Akkharananwinit</a>
+          <a className="Hello-text-4">(Seeking Jr.Fullstack Developer)</a><br/>
           <div className="Hello-text-Link">
             <a
               className="Link-Github"
