@@ -5,10 +5,11 @@
 .Hello-box {
   font-family: 'Space Mono', monospace;
   display: flex;
-  height: 800px;
+  height: 890px;
   width: auto;
   justify-content: space-around;
   align-items: center;
+  margin: 0px 5em;
 }
 
 .Hello-box img {

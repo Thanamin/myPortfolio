@@ -1,6 +1,7 @@
 import { useState } from "react";
 // import reactLogo from "../../assets/react.svg";
 import { AboutMe } from "../AboutMe/AboutMe";
+import { BackgroundWave } from "../BackgroundWave/BackgroundWave";
 import { Contact } from "../Contact/Contact";
 import { Education } from "../Education/Education";
 import { Experience } from "../Experience/Experience";
@@ -23,6 +24,7 @@ function App() {
       <Skill />
       <Project />
       <Contact />
+      <BackgroundWave />
       
 
       {/* <div>

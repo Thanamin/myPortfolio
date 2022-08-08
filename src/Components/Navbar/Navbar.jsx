@@ -4,8 +4,11 @@ export const Navbar = () => {
   return (
     <div id="Navbar">
       <div className="Navbar-Link">
-        <div className="Navbar-blank"></div>
+        <div className="Navbar-logo">
+          <img src="../../public/Minnie_bear.png" />
+        </div>
 
+        <div className="Navbar-blank"></div>
         <a href="#Home">Home</a>
         <a href="#AboutMe">About</a>
         <a href="#Experience">Experience</a>
