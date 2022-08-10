@@ -14,7 +14,13 @@ export const Navbar = () => {
         <a href="#Experience">Experience</a>
         <a href="#Project">Project</a>
         <a href="#Skill">Skill</a>
-        <a href="#Resume">Resume</a>
+        <a
+          href="https://drive.google.com/file/d/1IDSb45MzvFeXy7jjw5cliUgnLrW6BXv8/view?usp=sharing"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Resume
+        </a>
       </div>
     </div>
   );
