@@ -14,13 +14,13 @@ export const Project = () => {
                             <a  href="https://thanamin.github.io/colmar/"
                                 target="_blank"
                                 rel="noreferrer">Colmar</a> 
-                            <img src="../../public/Project/ColmarV2.jpg" />
+                            <img src="./Project/ColmarV2.jpg" />
                         </div>
                         <div className="box">
                             <a href="https://replit.com/@ThanaminAkkhara/Find-Your-Hat-20Thanamin-Minmin#index.js"
                                 target="_blank"
                                 rel="noreferrer">Find Your Hat</a>
-                            <img src="../../public/Project/FindYourHatV2.jpg" />
+                            <img src="./Project/FindYourHatV2.jpg" />
                         </div>
                     </div>
 
@@ -33,11 +33,11 @@ export const Project = () => {
                             >
                                 Jammming
                             </a>
-                            <img src="../../public/Project/JammmingV2.jpg" />
+                            <img src="./Project/JammmingV2.jpg" />
                         </div>
                         <div className="box">
                             <a>2beFit</a>
-                            <img src="../../public/Project/2befitV2.jpg" />
+                            <img src="./Project/2befitV2.jpg" />
                         </div>
                     </div>
                 </div>

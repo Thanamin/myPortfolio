@@ -45,7 +45,7 @@ export const Hello = () => {
               rel="noreferrer"
             >
               <img
-                src="./public/Email-Icon/email-icon-256px.png"
+                src="./Email-Icon/email-icon-256px.png"
                 alt=""
               />
 
