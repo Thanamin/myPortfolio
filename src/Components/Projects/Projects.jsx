@@ -19,7 +19,9 @@ export const Project = () => {
               >
                 Colmar
               </a>
-              <img src="./Project/ColmarV2.jpg" />
+              <a href="https://thanamin.github.io/colmar/" target="_blank">
+                <img src="./Project/ColmarV2.jpg" />
+              </a>
             </div>
             <div className="box">
               <a
@@ -29,7 +31,13 @@ export const Project = () => {
               >
                 Find Your Hat
               </a>
-              <img src="./Project/FindYourHatV2.jpg" />
+              <a
+                href="https://replit.com/@ThanaminAkkhara/Find-Your-Hat-20Thanamin-Minmin#index.js"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img src="./Project/FindYourHatV2.jpg" />
+              </a>
             </div>
           </div>
 
@@ -42,11 +50,19 @@ export const Project = () => {
               >
                 Jammming
               </a>
-              <img src="./Project/JammmingV2.jpg" />
+              <a
+                href="http://thanamin_jammming.surge.sh/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img src="./Project/JammmingV2.jpg" />
+              </a>
             </div>
             <div className="box">
               <a>Fit2Be</a>
-              <img src="./Project/2befitV2.jpg" />
+              <a href="#"
+                target="_blank"
+                rel="noreferrer"><img src="./Project/2befitV2.jpg" /></a>
             </div>
           </div>
         </div>

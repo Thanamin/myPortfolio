@@ -1,3 +1,6 @@
+
+
+
 #Project {
     width: auto;
     height: 1200px;
@@ -24,6 +27,12 @@
 .Project-box a {
     margin-bottom: 1.5em;
     text-decoration: none;
+}
+
+.Project-box img:hover {
+    transform: scale(1.1) rotate(1deg);
+    transition-duration: 150ms;
+    /* border: none; */
 }
 
 .Project-col1 {

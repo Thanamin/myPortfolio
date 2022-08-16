@@ -28,7 +28,8 @@
 
 .Contact-logo {
   display: flex;
-  justify-content: center;
+  justify-content: center;  
+  align-items: center;
   font-size: 25px;
 }
 
@@ -38,8 +39,9 @@
 }
 
 .Github img {
-  width: 40px;
-  height: 40px;
+  width: 33px;
+  height: 33px;
+  margin-right: 0.2em;
 
 }
 

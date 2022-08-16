@@ -1,3 +1,7 @@
+
+
+
+
 #Skill {
   height: 300px;
   margin: 300px 0px;
@@ -40,4 +44,9 @@
 .icon-banner .icon-banner-icon img {
   width: 120px;
   height: 120px;
+}
+
+.icon-banner-icon img:hover {
+  transform: scale(1.2);
+  transition-duration: 100ms;
 }

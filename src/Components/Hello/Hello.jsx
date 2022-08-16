@@ -6,7 +6,7 @@ export const Hello = () => {
     <div id="Hello">
       <div className="Hello-box">
         {/* Profile img */}
-        <img src="./Picture/profile-test.png" />
+        <img src="./Picture/profile-v01.png" />
         <div className="Hello-text">
           <a className="Hello-text-1">
             <span>Hello !! My Name is</span>
