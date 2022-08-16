@@ -22,7 +22,7 @@ export const Contact = () => {
             rel="noreferrer"
           >
             <img
-              src="../../../public/GitHub-Mark/PNG/GitHub-Mark-64px.png"
+              src="./GitHub-Mark/PNG/GitHub-Mark-64px.png"
               alt=""
             />
             GitHub
@@ -34,7 +34,7 @@ export const Contact = () => {
             rel="noreferrer"
           >
             <img
-              src="../../../public/LinkedIn-Icon/icons8-linkedin-circled-60.png"
+              src="./LinkedIn-Icon/icons8-linkedin-circled-60.png"
               alt=""
             />
             LinkedIn

@@ -5,7 +5,7 @@ export const Hello = () => {
   return (
     <div id="Hello">
       <div className="Hello-box">
-        <img src="../../../Picture/profile-test.png" />
+        <img src="./Picture/profile-test.png" />
         <div className="Hello-text">
           {/* <MyName /> */}
           <a className="Hello-text-1"><span>Hello !! My Name is</span></a>
@@ -20,7 +20,7 @@ export const Hello = () => {
               rel="noreferrer"
             >
               <img
-                src="../../../public/GitHub-Mark/PNG/GitHub-Mark-120px-plus.png"
+                src="./GitHub-Mark/PNG/GitHub-Mark-120px-plus.png"
                 alt=""
               />
   
@@ -32,7 +32,7 @@ export const Hello = () => {
               rel="noreferrer"
             >
               <img
-                src="../../../public/LinkedIn-Icon/icons8-linkedin-circled-60.png"
+                src="./LinkedIn-Icon/icons8-linkedin-circled-60.png"
                 alt=""
               />
 
@@ -45,7 +45,7 @@ export const Hello = () => {
               rel="noreferrer"
             >
               <img
-                src="../../../public/Email-Icon/email-icon-256px.png"
+                src="./public/Email-Icon/email-icon-256px.png"
                 alt=""
               />
 

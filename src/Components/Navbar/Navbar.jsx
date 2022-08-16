@@ -5,7 +5,7 @@ export const Navbar = () => {
     <div id="Navbar">
       <div className="Navbar-Link">
         <div className="Navbar-logo">
-          <img src="../../public/Minnie_bear.png" />
+          <img src="./Minnie_bear.png" />
         </div>
 
         <div className="Navbar-blank"></div>
