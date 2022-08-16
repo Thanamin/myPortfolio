@@ -10,6 +10,7 @@ import { Navbar } from "../Navbar/Navbar";
 import { Project } from "../Projects/Projects";
 import { Skill } from "../Skill/Skill";
 import "./App.css";
+import "./AppMobile.css";
 
 function App() {
   const [count, setCount] = useState(0);

@@ -1,4 +1,5 @@
 import "./Education.css";
+import "./EducationMobile.css";
 
 export const Education = () => {
   return (

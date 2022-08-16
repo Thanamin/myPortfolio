@@ -1,4 +1,5 @@
 import "./BackgroundWave.css";
+import "./BackgroundWaveMobile.css";
 
 export const BackgroundWave = () => {
   return (

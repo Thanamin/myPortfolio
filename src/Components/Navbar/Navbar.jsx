@@ -1,4 +1,5 @@
 import "./Navbar.css";
+import "./NavbarMobile.css";
 
 export const Navbar = () => {
   return (
@@ -8,6 +9,7 @@ export const Navbar = () => {
           <img src="./Minnie_bear.png" />
         </div>
 
+        {/* Link Navbar */}
         <div className="Navbar-blank"></div>
         <a href="#Home">Home</a>
         <a href="#AboutMe">About</a>

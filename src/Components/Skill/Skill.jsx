@@ -1,4 +1,5 @@
 import "./Skill.css";
+import "./SkillMobile.css"
 
 export const Skill = () => {
   return (

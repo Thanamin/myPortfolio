@@ -1,4 +1,5 @@
 import "./AboutMe.css";
+import "./AboutMeMobile.css";
 
 export const AboutMe = () => {
   return (
@@ -18,8 +19,6 @@ export const AboutMe = () => {
             fix if we don't work alone.
           </h4>
         </div>
-        {/* <div className="AboutMe-text-blank">
-          </div> */}
       </div>
     </div>
   );

@@ -1,4 +1,5 @@
 import "./Contact.css";
+import "./ContactMobile.css";
 
 export const Contact = () => {
   return (

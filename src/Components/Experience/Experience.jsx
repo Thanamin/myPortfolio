@@ -1,11 +1,16 @@
 import "./Experience.css";
+import "./ExperienceMobile.css";
 
 export const Experience = () => {
   return (
     <div id="Experience">
+
+      {/* Head */}
       <div className="Experience-head">
         <a>Experience</a>
       </div>
+
+      {/* Part1 */}
       <div className="Experience-part1">
         <h1>Assistant Sales Manager</h1>
         <h2>Sirirak Shrimp Farm</h2>
@@ -17,6 +22,8 @@ export const Experience = () => {
           Estimating costs involved.
         </h3>
       </div>
+
+      {/* Part2 */}
       <div className="Experience-part2">
         <h1>Sales Engineer</h1>
         <h2>Pneumax Co.,Ltd.</h2>
