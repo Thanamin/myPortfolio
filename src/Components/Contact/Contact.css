@@ -33,14 +33,19 @@
 }
 
 .Github {
+  display: flex;
+  justify-content: center;
 }
 
 .Github img {
   width: 40px;
   height: 40px;
+
 }
 
 .LinkedIn {
+  display: flex;
+  justify-content: center;
 }
 
 .LinkedIn img {
