@@ -14,7 +14,7 @@
 
 .Hello-box img {
   display: flex;
-  height: 40%;
+  height: 45%;
 }
 
 .Hello-text {
@@ -28,6 +28,7 @@
 
 .Hello-text a span{
     font-weight: bold;
+    font-size: larger;
   }
 
 .Hello-text-1 {
