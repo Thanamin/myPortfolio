@@ -1,0 +1,17 @@
+@media screen and (max-width: 768px) {
+    #Hello {
+        display:flex;
+
+    }
+
+    .Hello-box {
+        max-width: 700px;
+        flex-direction: column;
+    }
+
+    .Hello-box img {
+        max-width: 300px;
+        max-height: 300px;
+    }
+
+}

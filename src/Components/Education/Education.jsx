@@ -11,13 +11,16 @@ export const Education = () => {
       {/* Part 1 */}
       <div className="Education-part1">
         <div className="Education-part1-left">
-          <h1>Generation Thailand</h1>
-          <h2>Junior Software Developer Bootcamp</h2>
+          <a className="Education-a-1">Generation Thailand</a>
+          <a className="Education-a-2">Junior Software Developer Bootcamp</a>
+          <div className="Education-part1-right-mobile">
+            <h4>(Jun.2022 - Sep.2022)</h4>
+          </div>
           <div className="Education-detail">
             <h3>
-              Learn HTML, CSS, Bootstrap, JavaScript, Reactjs, Nodejs,
-              Express, MongoDB BSM: Problem solving, Time management,
-              Communication, Agile Scrum, Project management <br />
+              Learn HTML, CSS, Bootstrap, JavaScript, Reactjs, Nodejs, Express,
+              MongoDB BSM: Problem solving, Time management, Communication,
+              Agile Scrum, Project management <br />
               Projects:
               <br />
               - Colemar (HTML, CSS)
@@ -30,15 +33,18 @@ export const Education = () => {
           </div>
         </div>
         <div className="Education-part1-right">
-          <h2>Jun.2022 - Sep.2022</h2>
+          <a className="Education-a-2">Jun.2022 - Sep.2022</a>
         </div>
       </div>
 
       {/* Part 2 */}
       <div className="Education-part2">
         <div className="Education-part2-left">
-          <h1>Srinakharinwirot University</h1>
-          <h2>Bachelor's degree in Chemical Engineering</h2>
+          <a className="Education-a-1">Srinakharinwirot University</a>
+          <a className="Education-a-2">Bachelor's degree in Chemical Engineering</a>
+          <div className="Education-part2-right-mobile">
+            <h4>(Jun.2012 - Sep.2017)</h4>
+          </div>
           <div className="Education-detail">
             <h3>
               Chemical engineers conceive and design processes involved in
@@ -52,7 +58,7 @@ export const Education = () => {
           </div>
         </div>
         <div className="Education-part2-right">
-          <h2>Jun.2012 - Sep.2017</h2>
+          <a className="Education-a-2">Jun.2012 - Sep.2017</a>
         </div>
       </div>
     </div>

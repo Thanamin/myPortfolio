@@ -1,10 +1,32 @@
-    #Education {
+ 
+ @media screen and (min-width: 768px) {
+    .Education-part1-right-mobile {
+        display: none;
+    }
+    .Education-part2-right-mobile {
+        display: none;
+    }
+ }
+ 
+ 
+#Education {
     display: flex;
     height: 900px;
     flex-direction: column;
     /* justify-content: center; */
     align-items: center;
 }
+
+.Education-a-1 {
+    font-size: 30px;
+    
+}
+
+.Education-a-2 {
+    font-size: 23px;
+    
+}
+
 
 #Education h1 {
     font-size: 30px;
@@ -23,6 +45,10 @@
     font-weight: bold;
     text-align: center;
     width: 70%;
+}
+
+.Education-a {
+    font-size: 30px;
 }
 
 .Education-part1 {
