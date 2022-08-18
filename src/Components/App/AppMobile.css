@@ -1,6 +1,31 @@
 @media screen and (max-width: 768px) { 
 
+a { 
+    color: #000;
+}
 
+h1 {
+    color: #000;
+}
 
+h2 {
+    color: #000;
+}
+
+h3 {
+    color: #000;
+}
+
+h4 {
+    color: #000;
+}
+
+h5 {
+    color: #000;
+}
+
+li {
+    color: #000;
+}
     
 }
