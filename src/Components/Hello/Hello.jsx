@@ -12,7 +12,7 @@ export const Hello = () => {
             <span>Hello !! My Name is</span>
           </a>
           <a className="Hello-text-3">Thanamin Akkharananwinit</a>
-          <a className="Hello-text-4">(Seeking Jr.Fullstack Developer)</a>
+          <a className="Hello-text-4">(Seeking Junior Software Developer)</a>
           <br />
 
           {/* Link Component */}
