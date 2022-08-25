@@ -59,8 +59,12 @@ export const Project = () => {
               </a>
             </div>
             <div className="box">
-              <a>Fit2Be</a>
-              <a href="#"
+              <a
+              a
+              href="https://fit2be-project-thanamin.vercel.app/"
+              target="_blank"
+              rel="noreferrer">Fit2Be</a>
+              <a href="https://fit2be-project-thanamin.vercel.app/"
                 target="_blank"
                 rel="noreferrer"><img src="./Project/2befitV2.jpg" /></a>
             </div>
