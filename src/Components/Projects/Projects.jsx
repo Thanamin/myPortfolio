@@ -13,7 +13,7 @@ export const Project = () => {
           <div className="Project-col1">
             <div className="box">
               <a
-                href="https://thanamin.github.io/colmar/"
+                href="https://thanamin.github.io/Colmar-Project/"
                 target="_blank"
                 rel="noreferrer"
               >
