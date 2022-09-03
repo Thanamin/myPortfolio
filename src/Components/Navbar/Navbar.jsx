@@ -1,22 +1,23 @@
 import "./Navbar.css";
 import "./NavbarMobile.css";
+import {Link} from 'react-scroll'
 
 export const Navbar = () => {
   return (
     <div id="Navbar">
       <div className="Navbar-Link">
         <div className="Navbar-logo">
-          <img src="./Minnie_bear.png" />
+        <Link spy={true} smooth={true} duration={500} to="Hello"><a href="#Hello"><img src="./Minnie_bear.png" /></a></Link>
         </div>
 
         {/* Link Navbar */}
         <div className="Navbar-blank"></div>
-        <a href="#Home">Home</a>
-        <a href="#AboutMe">About</a>
-        <a href="#Experience">Experience</a>
-        <a href="#Project">Project</a>
-        <a href="#Skill">Skill</a>
-        <a
+        <Link className="link" spy={true} smooth={true} duration={500} to="Hello"><a href="#Hello">Home</a></Link>
+        <Link className="link" spy={true} smooth={true} duration={500} to="AboutMe"><a href="#AboutMe">About</a></Link>
+        <Link className="link" spy={true} smooth={true} duration={500} to="Experience"><a href="#Experience">Experience</a></Link>
+        <Link className="link" spy={true} smooth={true} duration={500} to="Project"><a href="#Project">Project</a></Link>
+        <Link className="link" spy={true} smooth={true} duration={500} to="Skill"><a href="#Skill">Skill</a></Link>
+        <a id="link-resume"
           href="https://drive.google.com/file/d/1IDSb45MzvFeXy7jjw5cliUgnLrW6BXv8/view?usp=sharing"
           target="_blank"
           rel="noreferrer"
