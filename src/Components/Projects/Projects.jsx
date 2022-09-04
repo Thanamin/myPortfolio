@@ -46,7 +46,7 @@ export const Project = () => {
                         target="_blank"
                       >
                         <img
-                          src="./Github-Mark/icons8-github-100.png"
+                          src="./GitHub-Mark/icons8-github-100.png"
                           className="box-icon-web"
                         ></img>
                       </a>
@@ -105,7 +105,7 @@ export const Project = () => {
                         target="_blank"
                       >
                         <img
-                          src="./Github-Mark/icons8-github-100.png"
+                          src="./GitHub-Mark/icons8-github-100.png"
                           className="box-icon-web"
                         ></img>
                       </a>
@@ -229,7 +229,7 @@ export const Project = () => {
                         target="_blank"
                       >
                         <img
-                          src="./Github-Mark/icons8-github-100.png"
+                          src="./GitHub-Mark/icons8-github-100.png"
                           className="box-icon-web"
                         ></img>
                       </a>
