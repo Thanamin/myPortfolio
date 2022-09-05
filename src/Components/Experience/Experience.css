@@ -1,10 +1,13 @@
 #Experience {
     display: flex;
-    height: 800px;
+    height: 900px;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     width: 100%;
+    background-color: rgba(0, 0, 0, 0.075);
+    
+    
 }
 #Experience h1 {
     font-size: 30px;
@@ -36,6 +39,10 @@
     text-align: center;
     width: 70%;
     margin-bottom: 1em;
+}
+
+.Experience-head a{
+    background-color: rgba(0, 187, 9, 0.15);
 }
 
 .Experience-part1 {

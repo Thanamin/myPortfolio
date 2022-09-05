@@ -1,4 +1,8 @@
+
+/* font from googlefont */
 @import url("https://fonts.googleapis.com/css2?family=Alice&family=Space+Mono&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 #root {
   max-width: 1280px;
   margin: auto;

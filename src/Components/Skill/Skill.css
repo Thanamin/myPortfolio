@@ -1,9 +1,10 @@
 #Skill {
   height: 300px;
-  margin: 300px 0px;
+  margin: 10em 0px;
   display: flex;
   flex-direction: column;
   text-align: center;
+  
 }
 
 
@@ -16,9 +17,13 @@
 .icon-banner-text {
   font-weight: bold;
   font-size: 55px;
-  margin-bottom: 50px;
+  /* margin-bottom: 0.5em; */
   /* margin-left: 1em; */
   /* align-self: center; */
+}
+
+.icon-banner-text a {
+  background-color: rgba(255, 0, 0, 0.15);
 }
 
 .icon-banner {
@@ -68,7 +73,7 @@
 }
 
 #body-skill {
-  margin-top: 5em;
+  margin-top: 3em;
 }
 
 #body-skill img:hover {

@@ -11,19 +11,26 @@
  
 #Education {
     display: flex;
-    height: 900px;
+    /* height: 900px; */
     flex-direction: column;
     /* justify-content: center; */
     align-items: center;
+    margin: 80px 0px;
 }
 
 .Education-a-1 {
     font-size: 30px;
+    color: #2E0249;
+    font-weight: bold;
+    width: 15em;
     
 }
 
 .Education-a-2 {
     font-size: 23px;
+    color: #570A57;
+    font-weight: bold;
+    width: max-content;
     
 }
 
@@ -38,14 +45,21 @@
 
 #Education h3 {
     font-size: 20px;
+    
 }
 
 .Education-head {
     font-size: 55px;
     font-weight: bold;
     text-align: center;
+    margin-bottom: 0.5em;
     width: 70%;
 }
+
+.Education-head a{
+    background-color: rgba(187, 0, 171, 0.15);
+}
+
 
 .Education-a {
     font-size: 30px;
@@ -53,7 +67,13 @@
 
 .Education-part1 {
     display: flex;
+    justify-content: center;
+    width: 70%;
+    align-items: flex-start;
 }
+ 
+    
+
 
 .Education-part1-left {
     display: flex;
@@ -61,7 +81,7 @@
     width: 55%;
     height: auto;
     margin-bottom: 100px;
-    margin-top: 50px;
+    margin-top: 2em;
     margin-left: 100px;
     
 }
@@ -79,6 +99,9 @@
 
 .Education-part2 {
     display: flex;
+    justify-content: center;
+    width: 70%;
+    align-items: flex-start;
 
     
 }
@@ -89,7 +112,7 @@
     width: 55%;
     height: auto;
     margin-bottom: 100px;
-    margin-top: 50px;
+    margin-top: 2em;
     margin-left: 100px;
     
 }

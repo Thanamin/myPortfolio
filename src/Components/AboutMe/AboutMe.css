@@ -2,6 +2,8 @@
     display: flex;
     height: 800px;
     flex-direction: column;
+    background-color: rgba(0, 0, 0, 0.075);
+    
     
 }
 
@@ -28,9 +30,11 @@
     text-align: center;
     margin-bottom: 1em;
     width: 70%;
+}
 
-    
-    
+.AboutMe-text-head a {
+    background-color: rgba(168, 187, 0, 0.15);
+
 }
 
 .AboutMe-text h4 {
