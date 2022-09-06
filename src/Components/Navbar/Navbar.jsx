@@ -14,7 +14,7 @@ export const Navbar = () => {
         <div className="Navbar-blank"></div>
         <Link className="link" spy={true} smooth={true} duration={500} to="Hello"><a href="#Hello">Home</a></Link>
         <Link className="link" spy={true} smooth={true} duration={500} to="AboutMe"><a href="#AboutMe">About</a></Link>
-        <Link className="link" spy={true} smooth={true} duration={500} to="Education"><a href="#Education">Education</a></Link>
+        {/* <Link className="link" spy={true} smooth={true} duration={500} to="Education"><a href="#Education">Education</a></Link> */}
         <Link className="link" spy={true} smooth={true} duration={500} to="Experience"><a href="#Experience">Experience</a></Link>
         <Link className="link" spy={true} smooth={true} duration={500} to="Skill"><a href="#Skill">Skill</a></Link>
         <Link className="link" spy={true} smooth={true} duration={500} to="Project"><a href="#Project">Project</a></Link>

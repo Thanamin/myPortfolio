@@ -19,22 +19,27 @@
 
 .Hello-text {
   width: 60%;
+  
 }
 
 .Hello-text a {
   display: flex;
+  
   
 }
 
 .Hello-text a span{
     font-weight: bold;
     font-size: larger;
+    background-color: #7e767038;
+    
   }
 
 .Hello-text-1 {
   font-size: 45px;
   margin-bottom: 0.5em;
   justify-content: center;
+  
 }
 
 .Hello-text-2 {

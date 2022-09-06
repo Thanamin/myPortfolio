@@ -1,4 +1,4 @@
-#Experience {
+#Experience2 {
     display: flex;
     height: 900px;
     flex-direction: column;
@@ -12,10 +12,12 @@
 #Experience h1 {
     font-size: 30px;
     margin-bottom: 3px;
+    color: #2E0249;
 }
 
 #Experience h2 {
     font-size: 23px;
+    color: #570A57;
 }
 
 
@@ -26,10 +28,12 @@
 #Experience h4 {
     font-size: 20px;
     margin-bottom: 20px;
+    color: #570A57;
 }
 
 #Experience li {
     font-size: larger;
+    list-style: inside circle;
 }
 
 
@@ -48,13 +52,15 @@
 .Experience-part1 {
     display: flex;
     flex-direction: column;
-    width: 60%;
+    width: 50em;
     margin-bottom: 6em;
     
 }
 
+
 .Experience-part2 {
     display: flex; 
     flex-direction: column; 
-    width: 60%;
+    width: 50em;
 }
+

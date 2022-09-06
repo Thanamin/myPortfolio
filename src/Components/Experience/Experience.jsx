@@ -3,7 +3,7 @@ import "./ExperienceMobile.css";
 
 export const Experience = () => {
   return (
-    <div id="Experience">
+    <div id="Experience2">
 
       {/* Head */}
       <div className="Experience-head">
@@ -14,7 +14,7 @@ export const Experience = () => {
       <div className="Experience-part1">
         <h1>Assistant Sales Manager</h1>
         <h2>Sirirak Shrimp Farm</h2>
-        <h4>2020 – 2022</h4>
+        <h4>(2020 – 2022)</h4>
         <ul>
           <li>Leading sales teams to achieve sales objectives.</li>
           <li>Identifying potential
@@ -27,8 +27,8 @@ export const Experience = () => {
       {/* Part2 */}
       <div className="Experience-part2">
         <h1>Sales Engineer</h1>
-        <h2>Pneumax Co.,Ltd.</h2>
-        <h4>2017 – 2020</h4>
+        <h2>Pneumax Co.,Ltd. (2017 – 2020)</h2>
+        <h4>(2017 – 2020)</h4>
         <ul>
           <li>Managed the sales operation of the firm to accomplish business
           strategy goals.</li>
