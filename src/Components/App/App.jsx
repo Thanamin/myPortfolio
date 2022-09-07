@@ -20,7 +20,6 @@ function App() {
       <Hello />
       <AboutMe />
       <Experience />
-      {/* <Experience2 /> */}
       <Skill />
       <Project />
       <Contact />
