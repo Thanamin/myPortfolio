@@ -3,7 +3,6 @@ import { useState } from "react";
 import { AboutMe } from "../AboutMe/AboutMe";
 import { BackgroundWave } from "../BackgroundWave/BackgroundWave";
 import { Contact } from "../Contact/Contact";
-import { Education } from "../Education/Education";
 import { Experience } from "../Experience/Experience";
 import { Hello } from "../Hello/Hello";
 import { Navbar } from "../Navbar/Navbar";
@@ -20,8 +19,8 @@ function App() {
       <Navbar />
       <Hello />
       <AboutMe />
-      <Education />
-      {/* <Experience /> */}
+      <Experience />
+      {/* <Experience2 /> */}
       <Skill />
       <Project />
       <Contact />
