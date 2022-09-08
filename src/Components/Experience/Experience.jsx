@@ -17,7 +17,7 @@ export const Experience = () => {
                 Junior Software Developer Bootcamp
               </a>
               <div className="Experience-part1-right-mobile">
-                <h4>(Jun.2022 - Sep.2022)</h4>
+                <h4>(Jun.2022 – Sep.2022)</h4>
               </div>
               <div className="Experience-detail">
                 <h3>
@@ -40,12 +40,12 @@ export const Experience = () => {
 
         <div className="Experience-part1-right">
           <div className="line"></div>
-          <a className="Experience-a-3">Jun.2022 - Sep.2022</a>
+          <a className="Experience-a-3">Jun.2022 – Sep.2022</a>
         </div>
 
         {/* Part 2 */}
         <div className="Experience-part2-left">
-          <a className="Experience-a-3">2020 – 2022</a>
+          <a className="Experience-a-3">Jun.2020 – Feb.2022</a>
           <div className="line"></div>
         </div>
 
@@ -55,22 +55,14 @@ export const Experience = () => {
               <a className="Experience-a-1">Sirirak Shrimp Farm</a>
               <a className="Experience-a-2">Assistant Sales Manager</a>
               <div className="Experience-part1-left-mobile">
-                <h4>(2020 – 2022)</h4>
+                <h4>(Jun.2020 – Feb.2022)</h4>
               </div>
               <div className="Experience-detail">
                 <h3>
-                  {/* Learn HTML, CSS, Bootstrap, JavaScript, Reactjs, Nodejs, Express,
-              MongoDB BSM: Problem solving, Time management, Communication,
-              Agile Scrum, Project management <br />
-              Projects:
-              <br /> */}
+                I have expanded the market by focusing on the central region. This leads to more sales than targets and more new customers.
                   <ul>
                     <li>Leading sales teams to achieve sales objectives.</li>
                     <li>Identifying potential customers in the market.</li>
-                    <li>
-                      Managing the firm’s sales budget and costs Estimating
-                      costs involved.
-                    </li>
                   </ul>
                 </h3>
               </div>
@@ -85,38 +77,14 @@ export const Experience = () => {
               <a className="Experience-a-1">Pneumax Co.,Ltd.</a>
               <a className="Experience-a-2">Sales Engineer</a>
               <div className="Experience-part3-right-mobile">
-                <h4>(2017 – 2020)</h4>
+                <h4>(Nov.2017 – May.2020)</h4>
               </div>
               <div className="Experience-detail">
                 <h3>
-                  {/* Learn HTML, CSS, Bootstrap, JavaScript, Reactjs, Nodejs, Express,
-              MongoDB BSM: Problem solving, Time management, Communication,
-              Agile Scrum, Project management <br />
-              Projects:
-              <br /> */}
-                  <ul>
-                    <li>
-                      Managed the sales operation of the firm to accomplish
-                      business strategy goals.
-                    </li>
-                    <li>
-                      Sustained sound relationship with existing clientele –
-                      Quantified client requirements through close contact.
-                    </li>
-                    <li>
-                      Tracked sales (using computer or spreadsheets) to provide
-                      accurate reports.
-                    </li>
-                    <li>
-                      Participated in conferences, group meetings, trade shows
-                      and exhibitions to deliver presentations on customer
-                      sites.
-                    </li>
-                    <li>
-                      Monitored competitor activities closely to identify any
-                      business threats.
-                    </li>
-                  </ul>
+                I have a responsibility to manage the sales of the company successfully. Sustained sound relationship with existing clientele – Quantified client requirements through close contact. Tracked sales (using computer or spreadsheets) to provide accurate reports. 
+Participated in conferences, group meetings, trade shows, and exhibitions to deliver presentations on customer sites.
+                   
+                  
                 </h3>
               </div>
             </div>
@@ -124,12 +92,12 @@ export const Experience = () => {
         </div>
         <div className="Experience-part3-right">
           <div className="line"></div>
-          <a className="Experience-a-3">2017 – 2020</a>
+          <a className="Experience-a-3">Nov.2017 – May.2020</a>
         </div>
 
         {/* Part 4 */}
         <div className="Experience-part4-left">
-          <a className="Experience-a-3">Jun.2012 - Sep.2017</a>
+          <a className="Experience-a-3">Jun.2012 – Sep.2017</a>
           <div className="line"></div>
         </div>
 
@@ -141,7 +109,7 @@ export const Experience = () => {
                 Bachelor's degree in Chemical Engineering
               </a>
               <div className="Experience-part4-left-mobile">
-                <h4>(Jun.2012 - Sep.2017)</h4>
+                <h4>(Jun.2012 – Sep.2017)</h4>
               </div>
               <div className="Experience-detail">
                 <h3>
