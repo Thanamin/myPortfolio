@@ -49,12 +49,13 @@
 }
 
 .Experience-a-3 {
-    font-size: 30px;
+    font-size: 35px;
     color: #570A57;
     font-weight: bold;
-    width: 10em;
+    width: 11em;
     padding: 0.5em;
     text-align: center;
+    border: 3px solid blue;
     
 }
 
