@@ -19,7 +19,7 @@ export const Navbar = () => {
         <Link className="link" spy={true} smooth={true} duration={500} to="Skill"><a href="#Skill">Skill</a></Link>
         <Link className="link" spy={true} smooth={true} duration={500} to="Project"><a href="#Project">Project</a></Link>
         <a id="link-resume"
-          href="https://drive.google.com/file/d/1IDSb45MzvFeXy7jjw5cliUgnLrW6BXv8/view?usp=sharing"
+          href="https://drive.google.com/file/d/1YYMtmTsgpodzswmCUdSHNIcErEOKNucw/view"
           target="_blank"
           rel="noreferrer"
         >
